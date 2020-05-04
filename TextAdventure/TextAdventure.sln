@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextAdventure", "TextAdventure.csproj", "{79514289-7877-49AF-B994-40E00BA50F0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextAdventure", "TextAdventure.csproj", "{79514289-7877-49AF-B994-40E00BA50F0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing (json.net)", "..\Testing (json.net)\Testing (json.net).csproj", "{6708A46A-C835-44A8-BF77-FC8F903B8E1D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{79514289-7877-49AF-B994-40E00BA50F0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79514289-7877-49AF-B994-40E00BA50F0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79514289-7877-49AF-B994-40E00BA50F0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6708A46A-C835-44A8-BF77-FC8F903B8E1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6708A46A-C835-44A8-BF77-FC8F903B8E1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6708A46A-C835-44A8-BF77-FC8F903B8E1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6708A46A-C835-44A8-BF77-FC8F903B8E1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

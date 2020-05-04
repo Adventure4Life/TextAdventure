@@ -58,11 +58,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\TextAdventure\\TextAdventure\\TextAdventure.csproj",
-      "projectName": "TextAdventure",
-      "projectPath": "D:\\Projects\\TextAdventure\\TextAdventure\\TextAdventure.csproj",
+      "projectUniqueName": "D:\\Projects\\TextAdventure\\Testing (json.net)\\Testing (json.net).csproj",
+      "projectName": "Testing (json.net)",
+      "projectPath": "D:\\Projects\\TextAdventure\\Testing (json.net)\\Testing (json.net).csproj",
       "packagesPath": "C:\\Users\\itisme\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\TextAdventure\\TextAdventure\\obj\\",
+      "outputPath": "D:\\Projects\\TextAdventure\\Testing (json.net)\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

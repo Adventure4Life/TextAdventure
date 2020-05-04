@@ -5,9 +5,11 @@ D:\Projects\TextAdventure\TextAdventure\bin\Debug\netcoreapp3.1\TextAdventure.ru
 D:\Projects\TextAdventure\TextAdventure\bin\Debug\netcoreapp3.1\TextAdventure.dll
 D:\Projects\TextAdventure\TextAdventure\bin\Debug\netcoreapp3.1\TextAdventure.pdb
 D:\Projects\TextAdventure\TextAdventure\obj\Debug\netcoreapp3.1\TextAdventure.csprojAssemblyReference.cache
-D:\Projects\TextAdventure\TextAdventure\obj\Debug\netcoreapp3.1\TextAdventure.csproj.CoreCompileInputs.cache
 D:\Projects\TextAdventure\TextAdventure\obj\Debug\netcoreapp3.1\TextAdventure.AssemblyInfoInputs.cache
 D:\Projects\TextAdventure\TextAdventure\obj\Debug\netcoreapp3.1\TextAdventure.AssemblyInfo.cs
 D:\Projects\TextAdventure\TextAdventure\obj\Debug\netcoreapp3.1\TextAdventure.dll
 D:\Projects\TextAdventure\TextAdventure\obj\Debug\netcoreapp3.1\TextAdventure.pdb
 D:\Projects\TextAdventure\TextAdventure\obj\Debug\netcoreapp3.1\TextAdventure.genruntimeconfig.cache
+D:\Projects\TextAdventure\TextAdventure\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\TextAdventure\TextAdventure\obj\Debug\netcoreapp3.1\TextAdventure.csproj.CoreCompileInputs.cache
+D:\Projects\TextAdventure\TextAdventure\obj\Debug\netcoreapp3.1\TextAdventure.csproj.CopyComplete

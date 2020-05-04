@@ -1,0 +1,15 @@
+D:\Projects\TextAdventure\TextAdventure\bin\Release\netcoreapp3.1\TextAdventure.exe
+D:\Projects\TextAdventure\TextAdventure\bin\Release\netcoreapp3.1\TextAdventure.deps.json
+D:\Projects\TextAdventure\TextAdventure\bin\Release\netcoreapp3.1\TextAdventure.runtimeconfig.json
+D:\Projects\TextAdventure\TextAdventure\bin\Release\netcoreapp3.1\TextAdventure.runtimeconfig.dev.json
+D:\Projects\TextAdventure\TextAdventure\bin\Release\netcoreapp3.1\TextAdventure.dll
+D:\Projects\TextAdventure\TextAdventure\bin\Release\netcoreapp3.1\TextAdventure.pdb
+D:\Projects\TextAdventure\TextAdventure\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\TextAdventure\TextAdventure\obj\Release\netcoreapp3.1\TextAdventure.csprojAssemblyReference.cache
+D:\Projects\TextAdventure\TextAdventure\obj\Release\netcoreapp3.1\TextAdventure.csproj.CoreCompileInputs.cache
+D:\Projects\TextAdventure\TextAdventure\obj\Release\netcoreapp3.1\TextAdventure.AssemblyInfoInputs.cache
+D:\Projects\TextAdventure\TextAdventure\obj\Release\netcoreapp3.1\TextAdventure.AssemblyInfo.cs
+D:\Projects\TextAdventure\TextAdventure\obj\Release\netcoreapp3.1\TextAdventure.csproj.CopyComplete
+D:\Projects\TextAdventure\TextAdventure\obj\Release\netcoreapp3.1\TextAdventure.dll
+D:\Projects\TextAdventure\TextAdventure\obj\Release\netcoreapp3.1\TextAdventure.pdb
+D:\Projects\TextAdventure\TextAdventure\obj\Release\netcoreapp3.1\TextAdventure.genruntimeconfig.cache

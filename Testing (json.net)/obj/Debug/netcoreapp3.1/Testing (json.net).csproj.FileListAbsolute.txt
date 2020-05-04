@@ -1,0 +1,14 @@
+D:\Projects\TextAdventure\Testing (json.net)\bin\Debug\netcoreapp3.1\Testing (json.net).exe
+D:\Projects\TextAdventure\Testing (json.net)\obj\Debug\netcoreapp3.1\Testing (json.net).csprojAssemblyReference.cache
+D:\Projects\TextAdventure\Testing (json.net)\obj\Debug\netcoreapp3.1\Testing (json.net).AssemblyInfoInputs.cache
+D:\Projects\TextAdventure\Testing (json.net)\obj\Debug\netcoreapp3.1\Testing (json.net).AssemblyInfo.cs
+D:\Projects\TextAdventure\Testing (json.net)\bin\Debug\netcoreapp3.1\Testing (json.net).deps.json
+D:\Projects\TextAdventure\Testing (json.net)\bin\Debug\netcoreapp3.1\Testing (json.net).runtimeconfig.json
+D:\Projects\TextAdventure\Testing (json.net)\bin\Debug\netcoreapp3.1\Testing (json.net).runtimeconfig.dev.json
+D:\Projects\TextAdventure\Testing (json.net)\bin\Debug\netcoreapp3.1\Testing (json.net).dll
+D:\Projects\TextAdventure\Testing (json.net)\bin\Debug\netcoreapp3.1\Testing (json.net).pdb
+D:\Projects\TextAdventure\Testing (json.net)\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\TextAdventure\Testing (json.net)\obj\Debug\netcoreapp3.1\Testing (json.net).csproj.CopyComplete
+D:\Projects\TextAdventure\Testing (json.net)\obj\Debug\netcoreapp3.1\Testing (json.net).dll
+D:\Projects\TextAdventure\Testing (json.net)\obj\Debug\netcoreapp3.1\Testing (json.net).pdb
+D:\Projects\TextAdventure\Testing (json.net)\obj\Debug\netcoreapp3.1\Testing (json.net).genruntimeconfig.cache

@@ -1,0 +1,9 @@
+{
+  "Name" : "game_quit",
+  "FilePath" : "..\\Data\\WordLists\\Actions\\",
+  "Words" : 
+  [
+	"exit",
+	"quit"
+  ]
+}

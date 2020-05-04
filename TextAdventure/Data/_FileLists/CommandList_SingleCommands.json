@@ -1,0 +1,13 @@
+{
+  "Name" : "CommandList_SingleCommands",
+  "FilePath" : "..\\Data\\WordLists\\Actions\\",
+  "Words" : 
+  [
+     "east",
+	 "game_quit",
+	 "look",
+	 "north",
+	 "south",
+     "west"
+  ]
+}

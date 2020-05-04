@@ -2,25 +2,28 @@
 using System.Collections.Generic;
 using System.Text;
 using System.Text.RegularExpressions;
+using TextUtilities;
 
-namespace TextAdventure
+namespace CommandProcessor
 {
     class InputUtils
     {
-        private TextUtils_Porter Stem = new TextUtils_Porter();
+        private readonly TextUtilities.Tokenization Tokeniz = new TextUtilities.Tokenization();
+        private readonly TextUtilities.StemTools Stem = new TextUtilities.StemTools();
+        private readonly WordCleaner Clean = new WordCleaner();
 
         private string rawInput;
         private static string[] cleanedInputTokens;
         private static string[] stemmedInputTokens;
 
-        public string GetRawInput() => rawInput;
-        public string[] GetCleanedInputTokens() => cleanedInputTokens;
-        public string[] GetStemmedInputTokens() => stemmedInputTokens;
+        public string ReadRawInput() => rawInput;
+        public string[] ReadCleanedInputTokens() => cleanedInputTokens;
+        public string[] ReadStemmedInputTokens() => stemmedInputTokens;
 
         public void GetInput(string input)
         {
-            rawInput = Regex.Replace(input, @"\s+", " "); //make sure there is only 1 white space between each word.
-            cleanedInputTokens = Stem.InputString(rawInput);
+            rawInput = Clean.Trim(input);
+            cleanedInputTokens = Tokeniz.InputString(rawInput);
             stemmedInputTokens = Stem.StemWordList(cleanedInputTokens);
         }
 

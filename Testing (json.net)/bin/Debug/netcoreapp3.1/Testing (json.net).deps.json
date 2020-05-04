@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "TextAdventure/1.0.0": {
+      "Testing (json.net)/1.0.0": {
         "dependencies": {
           "Newtonsoft.Json": "12.0.3"
         },
         "runtime": {
-          "TextAdventure.dll": {}
+          "Testing (json.net).dll": {}
         }
       },
       "Newtonsoft.Json/12.0.3": {
@@ -25,7 +25,7 @@
     }
   },
   "libraries": {
-    "TextAdventure/1.0.0": {
+    "Testing (json.net)/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
